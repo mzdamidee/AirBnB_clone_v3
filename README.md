@@ -149,15 +149,14 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
-<a href=""></a>
+
 ## Bugs
 No known bugs at this time. 
 
- <h1> Authors </h1>
-<h1>Alexa Orrico - <a href="https://github.com/alexaorrico">Github</a> / <a href="https://twitter.com/alexa_orrico">Twitter</a> </h1>
-<h1>Jennifer Huang - <a href="https://github.com/jhuang10123">Github</a> / <a href="https://twitter.com/earthtojhuang">Twitter</a> </h1>
-<h1>Precious Oranye - <a href="https://github.com/Preshfile">Github</a> / <a href="https://twitter.com/Preshfile">Twitter</a></h1>
-<h1>Marvellous Adesanya - <a href = "https://github.com/marvellousadesanya">Github</a> / <a href="https://twitter.com/BeLikeMarv">Twitter</a></h1>
-Second part of Airbnb: Joann Vuong
+## Authors
+Marv Adesanya - [Github](https://github.com/marvellousadesanya) / [Twitter](https://twitter.com/BeLikeMarv)
+###### PRESHFILES, REPLACE THIS WITH YOUR NAME
+
+Second part of Airbnb: Precious Oranye
 ## License
 Public Domain. No copy write protection. 
