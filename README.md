@@ -153,9 +153,9 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Marv Adesanya - [Github](https://github.com/marvellousadesanya) / [Twitter](https://twitter.com/BeLikeMarv)
-###### PRESHFILES, REPLACE THIS WITH YOUR NAME
+<h2>Authors</h2>
+<h2>Marv Adesanya - <a href="https://github.com/marvellousadesanya">Github</a> / <a href="https://twitter.com/BeLikeMarv">Twitter</a></h2>
+<h2>Precious Oranye - <a href="https://github.com/Preshfile">Github</a> / <a href="https://twitter.com/Preshfile">Twitter</a></h2>
 
 Second part of Airbnb: Precious Oranye
 ## License
