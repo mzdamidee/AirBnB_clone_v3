@@ -154,9 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 <h2>Authors</h2>
-<h2>Marv Adesanya - <a href="https://github.com/marvellousadesanya">Github</a> / <a href="https://twitter.com/BeLikeMarv">Twitter</a></h2>
-<h2>Precious Oranye - <a href="https://github.com/Preshfile">Github</a> / <a href="https://twitter.com/Preshfile">Twitter</a></h2>
+<h2>Deborah Thomas</h2>
+<h2>Henok Demelash</h2>
 
-Second part of Airbnb: Precious Oranye
+Second part of Airbnb: Deborah Thomas
 ## License
 Public Domain. No copy write protection. 
